@@ -41,12 +41,12 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas1024&theme=dark&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ojas1024&theme=dark&hide_langs_below=1" />
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ojas1024&show_icons=true&theme=dark&line_height=27" alt="Ojas's github stats"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ojas1024&show_icons=true&theme=dark&line_height=27" alt="Ojas's github stats"/>
 
 <a href="https://github.com/Ojas1024/i7API/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ojas1024&repo=i7api&theme=dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ojas1024&repo=i7api&theme=dark" />
 </a>
 
 
