@@ -14,7 +14,7 @@
 
 
 <!-- - 🔭 I’m currently working -->
-- 👯 I’m a backend dev who start his own <a href="http://140.238.229.174:2728/"> i7Apps </a> . Reach out to us if you need any tech help. We work with early stage startups to help them get from MVP to Series A.
+- 👯 I’m a backend dev who start his own <a href="https://leapnitpy.us.to"> Leap NITPY </a> . Reach out to us if you need any tech help. We work with early stage startups to help them get from MVP to Series A.
 - 🌱 I can build saucy backends that run blazingly fast with NodeJS and Flask. Familiar with the OCI ecosystem very well.
 - 👨🏿‍💻 I can pretty much work on anything from serverless to configuring EC2s and NGINX.
 - 📙 Learning Flutter to write beautiful cross-platform UIs.
